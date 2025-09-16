@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (pusto_studo_tz)" />
+  </component>
+  <component name="GitLabDefaultAccount">
+    <option name="defaultAccountId" value="113a800f-01d2-4917-8180-408fe29c14b3" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (pusto_studo_tz)" project-jdk-type="Python SDK" />
+</project>

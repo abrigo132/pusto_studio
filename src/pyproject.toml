@@ -1,0 +1,19 @@
+[project]
+name = "pusto-studio-tz"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "danila",email = "garipotter97@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "sqlalchemy[asyncio] (>=2.0.43,<3.0.0)",
+    "django (>=5.2.6,<6.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
